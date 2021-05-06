@@ -8,7 +8,7 @@ Haskell is a purely functional language with no method for OOP. Java is entirely
 
 To get the area of a square in Java, we create a Square class which has a method called getArea(). By intializing a Square object with a size, we can call the getArea() method on the object itself.
 
-In a purely functional language such as Haskell, the data is separate from the implemention (functions). As a result, a getSquareArea function is defined which takes in the area of the square and returns the area.
+In a purely functional language such as Haskell, the data is separate from the implementation (functions). As a result, a getSquareArea function is defined which takes in the area of the square and returns the area.
 
 ## Example 2 - Type inference
 
