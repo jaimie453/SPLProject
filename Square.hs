@@ -1,8 +1,8 @@
 -- Haskell Example 1
--- Purely functional vs Object Oriented
+-- Purely functional
 
 getSquareArea :: Integer -> Integer     -- function declaration
-getSquareArea size = size * size        -- function declaration
+getSquareArea size = size * size        -- function definition
 
 main = do
     putStrLn("Area of square size 5 has area: ")

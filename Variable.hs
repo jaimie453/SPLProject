@@ -16,6 +16,6 @@ main = do
     -- prints sorted array: [1,2,5,5,5,7,8,15]
     print(sort arr)
     
-    -- prints the original array above, since the array is immutable
+    -- prints the original array above, since arr is immutable
     print(arr)
     
