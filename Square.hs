@@ -1,4 +1,5 @@
 -- Haskell Example 1
+-- Purely functional vs Object Oriented
 
 getSquareArea :: Integer -> Integer     -- function declaration
 getSquareArea size = size * size        -- function declaration

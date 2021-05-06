@@ -1,4 +1,5 @@
 // Java Example 1 
+// Purely functional vs Object Oriented
 
 public class Square {
     private int size;
